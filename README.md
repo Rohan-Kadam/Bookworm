@@ -1,2 +1,2 @@
 # Bookworm 
-The A.I. Bot  who loves reading :robot: :books:
+The A.I. Bot  who enjoys reading :robot: :books:
